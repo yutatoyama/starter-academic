@@ -3,6 +3,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
+
 # This file represents a page section.
 headless: true
 
@@ -17,13 +18,13 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: false
   
 design:
   columns: '2'
